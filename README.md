@@ -9,10 +9,10 @@ The Master in Network and Information Systems Engineering aims at the advanced t
 | 1º Semestre                | 2º Semestre                   |
 |----------------------------|-------------------------------|
 | System Administration	     | Mobile Communication Networks |
-| Network Security           | Systems and Data Security     |
-| Network Administration     | Advanced Topics in Networking |
+| Network Security            | Systems and Data Security     |
+| [Network Administration](https://github.com/MitsukiS16/Network-Security) | Advanced Topics in Networking |
 | GO:                        | GO:                           |
-| SO:                        | SO:                           |
+| SO: [Distributed Systems](https://github.com/MitsukiS16/Socket-Calculator-Client-Server) | SO:                           |
 
 ### 2º Ano
 
