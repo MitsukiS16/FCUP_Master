@@ -4,9 +4,9 @@ The Master in Network and Information Systems Engineering aims at the advanced t
 
 ## Study Plan
 
-### 1º Ano
+### 1st Year
 
-| 1º Semestre                | 2º Semestre                   |
+| 1st Semester               | 2nd Semester                  |
 |----------------------------|-------------------------------|
 | System Administration	     | Mobile Communication Networks |
 | Network Security            | Systems and Data Security     |
@@ -14,9 +14,9 @@ The Master in Network and Information Systems Engineering aims at the advanced t
 | GO:                        | GO:                           |
 | SO: [Distributed Systems](https://github.com/MitsukiS16/Socket-Calculator-Client-Server) | SO:                           |
 
-### 2º Ano
+### 2nd Year
 
-| 1º Semestre                     | 2º Semestre         |
+| 1st Semester                    | 2nd Semester        |
 |----------------------------     |---------------------|
 | Dissertation                    | Dissertation        |
 | Management and Entrepreneurship |                     |
