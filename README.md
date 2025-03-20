@@ -8,19 +8,19 @@ The Master in Network and Information Systems Engineering aims at the advanced t
 
 | 1st Semester               | 2nd Semester                  |
 |----------------------------|-------------------------------|
-| System Administration	     | Mobile Communication Networks |
-| Network Security            | Systems and Data Security     |
-| [Network Administration](https://github.com/MitsukiS16/Network-Security) | Advanced Topics in Networking |
-| GO:                        | GO:                           |
-| SO: [Distributed Systems](https://github.com/MitsukiS16/Socket-Calculator-Client-Server) | SO:                           |
+| System Administration	                                             | Mobile Communication Networks |
+| [Network Security](https://github.com/MitsukiS16/Network-Security) | [Systems and Data Security]() |
+| Network Administration                                             | Advanced Topics in Networking |
+| GO: {Paris} Optimization, Learning, and Game Theory                | GO: [Privacy Enhancing Technologies]() |
+| SO: {Paris} Parallel and Distributed Algorithms                    | SO: {Paris} Big Data |
 
 ### 2nd Year
 
-| 1st Semester                    | 2nd Semester        |
-|----------------------------     |---------------------|
-| Dissertation                    | Dissertation        |
-| Management and Entrepreneurship |                     |
-| GO:                             |                     |
+| 1st Semester                       | 2nd Semester        |
+|----------------------------------- |---------------------|
+| Dissertation                       | Dissertation        |
+| Management and Entrepreneurship    |                     |
+| GO: {Paris} Data Mining Algorithms |                     |
 
 GO* - Generic Option
 SO* - Specific Option
